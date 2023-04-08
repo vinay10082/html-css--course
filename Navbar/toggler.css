@@ -36,7 +36,7 @@
 .nav-toggler span::after{
     top: 6px;
 }
-@media(max-width: 500px){
+@media(max-width: 991px){
     .nav-toggler{
         display: flex;
     }
